@@ -7,7 +7,7 @@ A project by me, cervidwithmoped.
 ## Foreword
 This is my first proper write-up on GitHub! While I plan on structuring this report like a scientific paper, don't expect any formalities. This was just a fun little project I did in free time that I'm just now deciding to write about and post. Also, I'm a human. Who wrote this. Because I wanted to. 
 
-__None__ of what you are about to read (nor the files I have added to this repo) were created with AI. Now that's out of the way, shall we begin?
+__None__ of what you are about to read (nor the files I have added to this repo) were created with AI. Additionally, I have attached the files of the project to this repo for research purposes but __I do not give permission to anyone to sell these designs.__ You can print them out for personal use all you want, but I put a lot of hours into this and I plan on selling these down the line. Now that's out of the way, shall we begin?
 
 ## Introduction
 As defined by Wikipedia, the furry fandom "is a subculture interested in anthropomorphic characters", and many people in the furry fandom own "fursuits" (sorta like the costumes that you see mascots at sporting events wear, except completely custom-made). I'm a furry, and plenty of my friends are as well. If you've never heard of us, well, now you have.
@@ -76,4 +76,4 @@ If you're wondering, this is what my friend had to say about seeing the final pr
 ## Discussion
 Admittedly, there were a lot of things I could have done differently or flat-out done better that are under consideration for V2. The different-colored parts of the enclosure relied on a hole-and-pin system to connect together since I could only print with one color at a time. The solution to this would be the Bambu Lab AMS ("Automatic Material System") that allows for multicolor printing, but that's $350 and that's not money I'm really willing to spend right now. I also want to use proper nuts and bolts to attach everything together for V2, since the over-reliance on the pins and hot glue add points of failure should the carrot be dropped.
 
-Overall, this was a super fun project to work on! My friend really liked it and it'll keep him cool once his fursuit comes in. 
+Overall, this was a super fun project to work on! My friend really liked it and it'll keep him cool once his fursuit comes in.
