@@ -16,9 +16,19 @@ In January 2024, a friend of mine tweeted about wanting a fursuit mouth fan in t
 
 I wanted to surprise my friend with a carrot-shaped fursuit fan, so I took the tweet as a challenge!
 
-
 ## Methods
+Hardware used: 
+- A $15 portable neck fan I found on Amazon
+- Bambu Lab P1P 3D Printer
+- Sunlu PLA+ filament (orange, green, and red)
+- Soldering iron
+- Hot glue
+- VHB tape
 
+Software used:
+- Adobe Photoshop CC
+- Tinkercad
+- Bambu Slicer
 
 ## Results
 
