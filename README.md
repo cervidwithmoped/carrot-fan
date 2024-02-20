@@ -1,5 +1,5 @@
 # The Carrot Fan
-https://imgur.com/a/74DOr5L
+![Carrot fan](https://imgur.com/a/74DOr5L)
 Making an ordinary mini fan from Amazon into a work of art
 A project by me, cervidwithmoped.
 
